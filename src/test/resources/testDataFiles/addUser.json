@@ -1,0 +1,24 @@
+
+{
+        "id": 11,
+        "name": "Tome Cruise",
+        "username": "Tom",
+        "email": "Tom@april.biz",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 557",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+        },
+        "phone": "1-111-111-1111 x56442",
+        "website": "hildegard.org",
+        "company": {
+            "name": "Romaguera-Crona-Test",
+            "catchPhrase": "Multi-layered client-server neural-net",
+            "bs": "harness real-time e-markets"
+        }
+    }
